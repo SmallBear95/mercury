@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    //items that in the menu you can as many as you want just copy and change the id and the titel
+<item android:id="@+id/navAccount"
+    android:title="My Account"
+    />
+
+    <item android:id="@+id/navProfile"
+        android:title="Login"/>
+    <item android:id="@+id/navFollow"
+        android:title="SignUp"/>
+    <item android:id="@+id/navItem1"
+        android:title="Browse"/>
+    <item android:id="@+id/navItem2"
+        android:title="About"/>
+        android:layout_gravity="start"
+
+</menu>
